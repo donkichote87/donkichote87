@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kamil
-- 👀 I’m interested in becoming full time Java developer
+- 👀 I’m interested in becoming professional Junior Java developer
 - 🌱 I’m currently on finishing line of Junior Java Developer course in Coders Lab
 - 📫 If you want to reach me with opportunity use my LinkedIn: https://www.linkedin.com/in/kamil-lazarowicz/
 
